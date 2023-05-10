@@ -1,0 +1,29 @@
+Software Specifications
+1. Python 3.11.3
+2. Pandas
+3. Matplotlib
+4. Numpy
+5. Seaborn
+
+
+Feasibility Study
+	 Technical feasibility
+		a. Any standard PC or laptop
+		b. Windows Operating System/Linux/Mac OS
+		c. Python 3.11.3
+		d. Each of the technology is freely available and the technical skills
+		   required are manageable.
+
+		   Therefore, the proposed project is technically feasible.
+
+
+	 Operational feasibility
+		Resources that are required for the project include:
+		1. Programming device (Laptop or computer)
+		2. Programming tools (freely available)
+		3. Programming individuals
+		4. Everything on the project is code based and open source so it will be easy to
+		   develop the tool.
+		5.Run the code on Jupyter Notebook.
+		   Therefore, the project has operational feasibility.
+
